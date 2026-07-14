@@ -1,0 +1,314 @@
+{
+  "01-01": [
+    {
+      "name": "Эндевор",
+      "anime": "My Hero Academia"
+    }
+  ],
+  "01-04": [
+    {
+      "name": "Хисока",
+      "anime": "Hunter x Hunter"
+    }
+  ],
+  "01-07": [
+    {
+      "name": "Ророноа Зоро",
+      "anime": "One Piece"
+    }
+  ],
+  "01-09": [
+    {
+      "name": "Сатору Годжо",
+      "anime": "Jujutsu Kaisen"
+    }
+  ],
+  "01-19": [
+    {
+      "name": "Шото Тодороки",
+      "anime": "My Hero Academia"
+    }
+  ],
+  "01-23": [
+    {
+      "name": "Наруто Узумаки",
+      "anime": "Naruto"
+    }
+  ],
+  "01-28": [
+    {
+      "name": "Леви Аккерман",
+      "anime": "Attack on Titan"
+    }
+  ],
+  "02-11": [
+    {
+      "name": "Усаги Цукино",
+      "anime": "Sailor Moon"
+    }
+  ],
+  "02-14": [
+    {
+      "name": "Эл Лолоунайт",
+      "anime": "Death Note"
+    }
+  ],
+  "02-20": [
+    {
+      "name": "Итачи Учиха",
+      "anime": "Naruto"
+    }
+  ],
+  "02-22": [
+    {
+      "name": "Рей Аянами",
+      "anime": "Evangelion"
+    }
+  ],
+  "03-01": [
+    {
+      "name": "Минато Намикадзе",
+      "anime": "Naruto"
+    }
+  ],
+  "03-09": [
+    {
+      "name": "Мику Накано",
+      "anime": "Quintessential Quintuplets"
+    }
+  ],
+  "03-27": [
+    {
+      "name": "Саске Учиха",
+      "anime": "Naruto"
+    }
+  ],
+  "04-01": [
+    {
+      "name": "Гинтоки Саката",
+      "anime": "Gintama"
+    }
+  ],
+  "04-05": [
+    {
+      "name": "Моб (Шигео Кагеяма)",
+      "anime": "Mob Psycho 100"
+    }
+  ],
+  "04-12": [
+    {
+      "name": "Ичиго Куросаки",
+      "anime": "Bleach"
+    }
+  ],
+  "04-17": [
+    {
+      "name": "Май Сакурашима",
+      "anime": "Bunny Girl Senpai"
+    }
+  ],
+  "04-22": [
+    {
+      "name": "Какаси Хатакэ",
+      "anime": "Naruto"
+    }
+  ],
+  "04-27": [
+    {
+      "name": "Киллуа Золдик",
+      "anime": "Hunter x Hunter"
+    }
+  ],
+  "05-05": [
+    {
+      "name": "Леон С. Кеннеди",
+      "anime": "Resident Evil"
+    }
+  ],
+  "05-09": [
+    {
+      "name": "Ацуши Накадзима",
+      "anime": "Bungou Stray Dogs"
+    }
+  ],
+  "05-20": [
+    {
+      "name": "Камина",
+      "anime": "Gurren Lagann"
+    }
+  ],
+  "05-23": [
+    {
+      "name": "Кэн Канэки",
+      "anime": "Tokyo Ghoul"
+    }
+  ],
+  "05-30": [
+    {
+      "name": "Эрвин Смит",
+      "anime": "Attack on Titan"
+    }
+  ],
+  "06-01": [
+    {
+      "name": "Икуо Мидория",
+      "anime": "My Hero Academia"
+    }
+  ],
+  "06-10": [
+    {
+      "name": "Мицуха Миямидзу",
+      "anime": "Your Name"
+    }
+  ],
+  "06-22": [
+    {
+      "name": "Мирин",
+      "anime": "Bleach"
+    }
+  ],
+  "07-04": [
+    {
+      "name": "Юри Плисецкий",
+      "anime": "Yuri on Ice"
+    }
+  ],
+  "07-07": [
+    {
+      "name": "Нана Осаки",
+      "anime": "Nana"
+    }
+  ],
+  "07-22": [
+    {
+      "name": "Эдвард Элрик",
+      "anime": "Fullmetal Alchemist"
+    }
+  ],
+  "07-23": [
+    {
+      "name": "Сакура Харуно",
+      "anime": "Naruto"
+    }
+  ],
+  "07-26": [
+    {
+      "name": "Танджиро Камадо",
+      "anime": "Demon Slayer"
+    }
+  ],
+  "08-07": [
+    {
+      "name": "Ацуши Накадзима",
+      "anime": "Bungou Stray Dogs"
+    }
+  ],
+  "08-16": [
+    {
+      "name": "Миказа Аккерман",
+      "anime": "Attack on Titan"
+    }
+  ],
+  "08-23": [
+    {
+      "name": "Темари",
+      "anime": "Naruto"
+    }
+  ],
+  "09-03": [
+    {
+      "name": "Кайто Кид",
+      "anime": "Detective Conan"
+    }
+  ],
+  "09-13": [
+    {
+      "name": "Мэгуми Фушигуро",
+      "anime": "Jujutsu Kaisen"
+    }
+  ],
+  "09-15": [
+    {
+      "name": "Монки Д. Луффи",
+      "anime": "One Piece"
+    }
+  ],
+  "09-22": [
+    {
+      "name": "Шинобу Кочо",
+      "anime": "Demon Slayer"
+    }
+  ],
+  "09-27": [
+    {
+      "name": "Хаку",
+      "anime": "Naruto"
+    }
+  ],
+  "10-05": [
+    {
+      "name": "Акаши Сейджуро",
+      "anime": "Kuroko's Basket"
+    }
+  ],
+  "10-10": [
+    {
+      "name": "Такуми Алаудо",
+      "anime": "Re:Zero"
+    }
+  ],
+  "10-14": [
+    {
+      "name": "Ута",
+      "anime": "One Piece Film Red"
+    }
+  ],
+  "10-31": [
+    {
+      "name": "Сугуру Гето",
+      "anime": "Jujutsu Kaisen"
+    }
+  ],
+  "11-01": [
+    {
+      "name": "Кэнто Нанами",
+      "anime": "Jujutsu Kaisen"
+    }
+  ],
+  "11-11": [
+    {
+      "name": "Рэн Дзюдзю",
+      "anime": "Jujutsu Kaisen"
+    }
+  ],
+  "11-22": [
+    {
+      "name": "Юки Соэно",
+      "anime": "Fruits Basket"
+    }
+  ],
+  "12-04": [
+    {
+      "name": "Юта Оккоцу",
+      "anime": "Jujutsu Kaisen"
+    }
+  ],
+  "12-21": [
+    {
+      "name": "Гию Томиока",
+      "anime": "Demon Slayer"
+    }
+  ],
+  "12-24": [
+    {
+      "name": "Леви Аккерман",
+      "anime": "Attack on Titan"
+    }
+  ],
+  "12-30": [
+    {
+      "name": "Сатору Годжо",
+      "anime": "Jujutsu Kaisen"
+    }
+  ]
+}
