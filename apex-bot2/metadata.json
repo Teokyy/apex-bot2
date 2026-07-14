@@ -1,0 +1,8 @@
+{
+  "name": "Telegram Auto-Poster & Birthday Bot",
+  "description": "Автоматизированный веб-интерфейс для Telegram-бота, публикующего аниме/игровые новости с ИИ-переводом и поздравления с днем рождения персонажей.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
